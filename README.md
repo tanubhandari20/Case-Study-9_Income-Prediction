@@ -2,7 +2,8 @@
 
 ### Objective
 
-Predict income for individuals that whether the salary is greater 50K or less than than or equal to 50K.
+ Predict income for individuals that whether the salary is greater 50K or less than than or equal to 50K.
+
 
 ### Contents
 This project is meant to explore, analyse, visualize and predict the salary of an individual:    
